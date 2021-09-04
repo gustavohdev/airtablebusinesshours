@@ -8,7 +8,7 @@ npm install
 - Create an login in AirTable Api
 
 # My Example
-[![AirTable](https://ibb.co/bXnK9k0][img]https://i.ibb.co/HqQH8jS/airtable.png)](https://ibb.co/bXnK9k0)
+[![AirTable](https://i.ibb.co/HqQH8jS/airtable.png)](https://ibb.co/bXnK9k0)
 
 
 # Running
